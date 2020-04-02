@@ -17,7 +17,7 @@ This project we use k6-scriptand this depends on the operating system that we ha
 # How To Run From Command Line
 
 ```sh
-$ k6 run script.js
+$ k6 run \\tests\\FirtsExample\\prueba.js
 ```
 
 # Note:
